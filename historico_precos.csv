@@ -1,26 +1,106 @@
-﻿,Data,Produto,Preço,Marca
-0,17-12-2021,Mortadela defumada fatiada Seara Gourmet 200g,6.47,Seara
-1,17-12-2021,Mortadela Defumada Perdigão Ouro 200g,7.99,Perdigão
-2,17-12-2021,Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,5.59,Sadia
-0,18-12-2021,Mortadela defumada fatiada Seara Gourmet 200g,7.19,Seara
-1,18-12-2021,Mortadela Defumada Perdigão Ouro 200g,7.99,Perdigão
-2,18-12-2021,Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,0.0,Sadia
-0,20-12-2021,Mortadela defumada fatiada Seara Gourmet 200g,7.19,Seara
-1,20-12-2021,Mortadela Defumada Perdigão Ouro 200g,7.99,Perdigão
-2,20-12-2021,Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,0.0,Sadia
-0,21-12-2021,Mortadela defumada fatiada Seara Gourmet 200g,7.19,Seara
-1,21-12-2021,Mortadela Defumada Perdigão Ouro 200g,7.99,Perdigão
-2,21-12-2021,Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,0.0,Sadia
-3,21-12-2021,Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,0.0,Sadia
-4,21-12-2021,Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,27.49,Seara
-5,21-12-2021,Hambúrguer de carne vegetal Not Burger 200g,18.9,NotCo
-0,22-12-2021,Mortadela defumada fatiada Seara Gourmet 200g,7.19,Seara
-1,22-12-2021,Mortadela Defumada Perdigão Ouro 200g,7.99,Perdigão
-2,22-12-2021,Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,0.0,Sadia
-3,22-12-2021,Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,0.0,Sadia
-4,22-12-2021,Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,27.49,Seara
-5,22-12-2021,Hambúrguer de carne vegetal Not Burger 200g,18.9,NotCo
-6,22-12-2021,Margarina com sal Doriana 500g,7.29,Doriana
-7,22-12-2021,Margarina Cremosa com Sal QUALY Pote 500g,8.99,Qualy
-8,22-12-2021,Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,8.59,Vigor
-9,22-12-2021,Margarina Cremosa DELÍCIA Com Sal Pote 500g,7.99,Delícia
+﻿Produto,Marca,Preço,Produto Base,Data,Loja
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,6.47,Mortadela Gourmet,17-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,7.99,Mortadela Gourmet,17-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,5.59,Mortadela Gourmet,17-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,7.19,Mortadela Gourmet,18-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,7.99,Mortadela Gourmet,18-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,18-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,7.19,Mortadela Gourmet,20-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,7.99,Mortadela Gourmet,20-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,20-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,7.19,Mortadela Gourmet,21-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,7.99,Mortadela Gourmet,21-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,21-12-21,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,21-12-21,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,21-12-21,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,21-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,7.19,Mortadela Gourmet,22-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,7.99,Mortadela Gourmet,22-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,22-12-21,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,22-12-21,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,22-12-21,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,22-12-21,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,22-12-21,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,22-12-21,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,22-12-21,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,22-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,5.75,Mortadela Gourmet,23-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,6.39,Mortadela Gourmet,23-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,23-12-21,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,23-12-21,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,23-12-21,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,23-12-21,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,23-12-21,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,23-12-21,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,23-12-21,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,23-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,5.39,Mortadela Gourmet,27-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,6.39,Mortadela Gourmet,27-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,27-12-21,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,27-12-21,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,27-12-21,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,27-12-21,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,27-12-21,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,27-12-21,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,27-12-21,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,27-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,5.39,Mortadela Gourmet,28-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,0,Mortadela Gourmet,28-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,28-12-21,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,28-12-21,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,28-12-21,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,28-12-21,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,28-12-21,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,28-12-21,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,28-12-21,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,28-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,5.39,Mortadela Gourmet,29-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,0,Mortadela Gourmet,29-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,29-12-21,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,29-12-21,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,29-12-21,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,29-12-21,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,29-12-21,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,29-12-21,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,29-12-21,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,29-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,5.39,Mortadela Gourmet,30-12-21,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,0,Mortadela Gourmet,30-12-21,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,30-12-21,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,30-12-21,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,30-12-21,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,30-12-21,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,30-12-21,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,30-12-21,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,30-12-21,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,30-12-21,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,5.39,Mortadela Gourmet,02-01-22,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,0,Mortadela Gourmet,02-01-22,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,5.94,Mortadela Gourmet,02-01-22,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,02-01-22,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,02-01-22,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,02-01-22,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,02-01-22,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,02-01-22,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,02-01-22,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,02-01-22,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,5.39,Mortadela Gourmet,03-01-22,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,0,Mortadela Gourmet,03-01-22,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,5.94,Mortadela Gourmet,03-01-22,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,03-01-22,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,03-01-22,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,03-01-22,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,03-01-22,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,03-01-22,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,03-01-22,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,03-01-22,Pão de Açúcar
+Mortadela defumada fatiada Seara Gourmet 200g,Seara,5.75,Mortadela Gourmet,04-01-22,Pão de Açúcar
+Mortadela Defumada Perdigão Ouro 200g,Perdigão,0,Mortadela Gourmet,04-01-22,Pão de Açúcar
+Mortadela Defumada Fatiada SADIA Soltíssimo Bandeja 200g,Sadia,0,Mortadela Gourmet,04-01-22,Pão de Açúcar
+Hambúrguer Vegetariano SADIA Veg & Tal Pacote 226g,Sadia,0,Linha Incrível,04-01-22,Pão de Açúcar
+Hambúrguer De Ervilha Sabor Carne SEARA Incrível 226g,Seara,27.49,Linha Incrível,04-01-22,Pão de Açúcar
+Hambúrguer de carne vegetal Not Burger 200g,NotCo,18.9,Linha Incrível,04-01-22,Pão de Açúcar
+Margarina com sal Doriana 500g,Doriana,7.29,Doriana,04-01-22,Pão de Açúcar
+Margarina Cremosa com Sal QUALY Pote 500g,Qualy,8.99,Doriana,04-01-22,Pão de Açúcar
+Margarina Sabor Manteiga Cremosa com Sal VIGOR Pote 500g,Vigor,8.59,Doriana,04-01-22,Pão de Açúcar
+Margarina Cremosa DELÍCIA Com Sal Pote 500g,Delícia,7.99,Doriana,04-01-22,Pão de Açúcar
